@@ -21,5 +21,5 @@
 ## Contato
 - 📧 E-mail: luizdemarck21@gmail.com
 - 💼 LinkedIn: [Luiz Felipe](https://www.linkedin.com/in/luiz-felipe-5b9a7b241/)
-- 🌐 Site: [Nãao finalizado0)
+- 🌐 Site: [Nãao finalizado)
 
