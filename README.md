@@ -7,7 +7,7 @@
 - 🌱 Sempre em busca de aprender e aprimorar minhas habilidades na área de tecnologia
 
 ## Projetos
-- Projeto 1: Em dsenvolvimento.
+- Projeto 1: Em desenvolvimento.
 - ...
 
 ## Linguagens e Ferramentas
