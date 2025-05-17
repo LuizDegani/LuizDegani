@@ -2,7 +2,7 @@
 
 ## Sobre mim
 - 👨‍💻 Programador Júnior
-- 🎓 Estudante de Ciências da Computação
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 - 🖥️ Experiência em banco de dados, suporte técnico e administração de sistemas
 - 🌱 Sempre em busca de aprender e aprimorar minhas habilidades na área de tecnologia
 
